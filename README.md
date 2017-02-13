@@ -12,6 +12,7 @@ Tools: NodeJs, Jasmine
 + Clone the repository
 + Navigate to the root folder of a problem
 + Open **index.html** in your browser 
+
 ### Run in the console
 + Run `npm install -g jasmine`
 + Clone the repository
