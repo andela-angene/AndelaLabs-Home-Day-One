@@ -1,0 +1,12 @@
+{
+  "name": "Data-Types",
+  "version": "1.0.0",
+  "description": "Compare and return results, based on the argument supplied to the function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anthony Ngene",
+  "license": "ISC"
+}
