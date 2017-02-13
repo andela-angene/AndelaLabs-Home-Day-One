@@ -1,0 +1,12 @@
+{
+  "name": "Get-Primes",
+  "version": "1.0.0",
+  "description": "Get prime numbers from 0 up to a given number n.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anthony Ngene",
+  "license": "ISC"
+}
